@@ -1,3 +1,3 @@
 # Freelancer
 
-Página web realidad con HTML y CSS
+Página web realizada con HTML y CSS
